@@ -73,6 +73,5 @@ These architectures were fine-tuned to achieve optimal performance for this spec
 
 This README outlines the journey and efforts undertaken to develop a robust AI model for obstacle detection, ensuring safer roads for everyone.
 
-ok.. 
 
 
