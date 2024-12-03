@@ -1,4 +1,4 @@
-#Obstacle Detection Using Deep Learning Algorithms
+# Obstacle Detection Using AI
 
 
 This project is designed for a website named Obstacle, which focuses on identifying and sharing road hazards such as potholes and manholes. The website allows users to upload photos of obstacles along with their exact locations, enabling others to be aware of and avoid these hazards in advance.
