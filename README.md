@@ -38,6 +38,7 @@ To expand and balance the dataset, various data augmentation techniques were app
 This resulted in a robust dataset for training the AI model, ensuring improved performance and generalization.
 
 ![stats image](https://github.com/user-attachments/assets/3b0c1f86-47da-4181-8110-31c24da90f9b)
+
 ---
 
 ## Model Architecture
@@ -60,16 +61,8 @@ These architectures were fine-tuned to achieve optimal performance for this spec
 ## Model Training and Performance
 - The pre-trained models provided a significant boost in model performance by reducing the loss and achieving perfect training accuracy.
 - Validation accuracy was slightly lower with pre-trained models but still within an acceptable range, indicating robust model generalization.
-## Conclusion
 
-This project successfully demonstrates the use of AI in automating obstacle detection for road safety. By leveraging data augmentation and state-of-the-art pre-trained models, the system provides:
-
-- High accuracy and reliability in identifying road hazards.
-- Improved user experience on the **Obstacle** website.
-- A scalable solution that can adapt to additional obstacle types in the future.
-
----
-
+  
 ## Future Work
 
 - Expanding the dataset to include more diverse obstacle types.
